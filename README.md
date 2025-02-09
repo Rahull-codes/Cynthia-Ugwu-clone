@@ -4,7 +4,7 @@
 This project is a clone of Cynthia Ugwu's portfolio website, showcasing her work and skills in a visually appealing manner.
 
 ## Demo/Preview
-A live demo of the project can be viewed [here](#).
+A live demo of the project can be viewed [LikedIn].
 
 ## Features
 - Smooth scrolling using Locomotive Scroll
