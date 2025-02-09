@@ -24,3 +24,6 @@ Open the `index.html` file in a web browser to view the portfolio. The website i
 
 ## Credits
 This project is inspired by Cynthia Ugwu's original portfolio website.
+
+## 📸 Demo
+🔗 **[Click here to watch the demo](https://streamable.com/cfwha7)**  
