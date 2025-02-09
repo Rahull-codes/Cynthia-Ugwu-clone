@@ -5,6 +5,7 @@ This project is a clone of Cynthia Ugwu's portfolio website, showcasing her work
 
 ## Demo/Preview
 A live demo of the project can also be viewed [LikedIn](#).
+
 🔗 **[Click here to watch the demo](https://streamable.com/cfwha7)**  
 
 ## Features
