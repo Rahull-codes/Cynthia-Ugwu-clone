@@ -4,9 +4,8 @@
 This project is a clone of Cynthia Ugwu's portfolio website, showcasing her work and skills in a visually appealing manner.
 
 ## Demo/Preview
-
-🔗 **[Click here to watch the demo](https://streamable.com/cfwha7)**  
 A live demo of the project can also be viewed [LikedIn](#).
+🔗 **[Click here to watch the demo](https://streamable.com/cfwha7)**  
 
 ## Features
 - Smooth scrolling using Locomotive Scroll
